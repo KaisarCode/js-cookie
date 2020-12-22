@@ -1,5 +1,5 @@
-# Cookie [Browser]
-Set/Get cookies
+# Cookie
+[browser] Set/Get cookies
 
 ### Install
 ```
