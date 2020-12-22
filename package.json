@@ -1,6 +1,6 @@
 {
   "name": "kc-cookie",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "[browser] Set/Get cookies",
   "main": "cookie.js",
   "repository": {
